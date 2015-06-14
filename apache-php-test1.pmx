@@ -1,0 +1,10 @@
+---
+name: apache-php-test1
+description: ''
+keywords: apache,php,hello_world
+type: Apache
+documentation: ''
+images:
+- name: centurylink_apache-php_latest
+  source: centurylink/apache-php:latest
+  type: Default
